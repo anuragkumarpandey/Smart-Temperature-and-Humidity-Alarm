@@ -14,11 +14,9 @@ Bachelor Informatik Project - Hardware + Software
 - I2C LCD (A4/A5)
 - 2 LEDs with 220Ω resistors 
 - Active buzzer
-
-
-
+- 
 ## Code
-
+Smart_Temperature_and_Humidity_System.ino
 
 ## Demo
 https://wokwi.com/projects/457486300300198913
